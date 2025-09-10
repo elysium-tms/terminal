@@ -6,8 +6,8 @@
 
 A sleek, modern dark theme for terminals, minimalist and elegant Elysium aesthetic. Designed for Alacritty, Elysium brings a clean and distraction-free look to your workflow.
 
-## Screenshots
-![Desktop](./media/elysium-alacritty.png)
+## Screenshot
+![Desktop](./alacritty/media/elysium-alacritty.png)
 
 *Elysium theme applied in Alacritty, showcasing its dark, elegant color palette.*
 
