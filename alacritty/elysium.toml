@@ -1,0 +1,46 @@
+# Elysium dark theme for Alacritty
+# Source https://github.com/elysium-tms/terminal.git
+
+# Primary colors
+[colors.primary]
+background = "#1f2937"
+foreground = "#e5e7eb"
+
+# Normal colors
+[colors.normal]
+black = "#020617"
+red = "#ef5350"
+green = "#7bc74d"
+yellow = "#ff9800"
+blue = "#42a5f5"
+magenta = "#ba68c8"
+cyan = "#00b8db"
+white = "#d1d5db"
+
+# Bright colors
+[colors.bright]
+black = "#4b5563"
+red = "#ee6352"
+green = "#8ec07c" 
+yellow = "#ffb74d"
+blue = "#4fc3f7"
+magenta = "#ce93d8"
+cyan = "#4dd0e1"
+white = "#f3f4f6"
+
+# Cursor colors
+[colors.cursor]
+text = "#1f2937"
+cursor = "#7bc74d"
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+blink_interval = 750
+blink_timeout = 5
+
+[mouse]
+hide_when_typing = true"
+
+[colors.selection]
+text = "CellBackground"
+background = "CellForeground"
